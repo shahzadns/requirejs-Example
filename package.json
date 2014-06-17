@@ -1,0 +1,13 @@
+{
+    "name": "gruntDemo",
+    "version": "0.0.1",
+    "description": "this is my first demo grunt.js project",
+    "main": "Gruntfile.js",
+    "scripts": {
+        "test": "hello"
+    },
+    "author": "Shahzad Soomro",
+    "license": "MIT",
+    "dependencies": {
+    }
+}
