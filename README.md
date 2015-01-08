@@ -1,4 +1,3 @@
-grunt-requirejs-demo
-====================
+requirejs-Example
 
-this is a demo project illustrating the require.js basics.
+A Sample project, illustrating require.js basics.
